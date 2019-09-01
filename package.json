@@ -1,4 +1,11 @@
 {
+  "name": "projet",
+  "version": "1.0.0",
+  "description": "Projet Discord Oxicia",
+  "main": "index.js",
+  "repository": "https://github.com/antonwilliams34/oxicia-botjs.git",
+  "author": "antonwilliams34 <manageurraze@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "discord.js": "discordjs/discord.js"
   }
