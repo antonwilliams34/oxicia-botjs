@@ -7,7 +7,8 @@
   "author": "antonwilliams34 <manageurraze@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "discordjs/discord.js"
+    "discord.js": "discordjs/discord.js",
+    "node-fetch": "^2.6.0"
   },
   "devDependencies": {
     "eslint": "^6.3.0",
@@ -28,7 +29,8 @@
         "error",
         2
       ],
-      "curly": "off"
+      "curly": "off",
+      "no-trailing-spaces": "off"
     }
   }
 }
